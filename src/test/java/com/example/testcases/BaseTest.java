@@ -24,7 +24,7 @@ public class BaseTest {
         caps.setCapability("platform", "Windows 10");
         caps.setCapability("browserName", "chrome");
         caps.setCapability("version", "latest");
-        caps.setCapability("build", "debug");
+        caps.setCapability("build", "sample-xml-runner");
         caps.setCapability("name", "sample-test");
         caps.setCapability("plugin", "git-testng");
 
